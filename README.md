@@ -7,7 +7,7 @@
 ---
 
 - Sysadmin.
-- Background in Windows Server, RHEL, and Cisco.
+- Background in Windows Server, Linux, and Cisco.
 - Azure/365 enthusiast.
 - Amateur blue teamer.
 - Possibly just a collection of shell scripts in a trench coat and sunglasses.
