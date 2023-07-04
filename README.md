@@ -6,11 +6,11 @@
 
 ---
 
-- Sysadmin.
-- Background in Windows Server, Linux, and Cisco.
-- Azure/365 enthusiast.
+- Network engineer.
+- Background in Cisco, Windows Server, and Linux.
+- Link-state enthusiast.
 - Amateur blue teamer.
-- Possibly just a collection of shell scripts in a trench coat and sunglasses.
+- Possibly just a collection of Python scripts in a trench coat and sunglasses.
 
 ---
 
@@ -18,10 +18,10 @@
 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 <p>
+<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/devices/cisco.svg" alt="Cisco logo"/>
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/services/azure.svg" alt="Azure logo"/>
-<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/services/office_365.svg" alt="365 logo"/>
-<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/powershell.svg" alt="PowerShell logo"/>
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/python.svg" alt="Python logo"/>
+<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/powershell.svg" alt="PowerShell logo"/>
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/bash.svg" alt="Bash logo"/>
 </p>
 <!--
