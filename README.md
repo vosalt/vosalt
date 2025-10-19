@@ -1,23 +1,23 @@
-### hello
+### hi there. i'm richard. he/him.
 
 ---
 
-- network engineer -> sysadmin pipeline
-- noc person
+- network person
+- third-shift noc
 - beard-haver
-- possibly just a collection of shell scripts in a trench coat and sunglasses.
+- possibly just a sentient bundle of cat6 cables in a trenchcoat and sunglasses
 
 ---
+
+### :heart: 
+![Juniper](https://img.shields.io/badge/Juniper-84B135?style=for-the-badge&logo=junipernetworks&logoColor=black)
+
+### 💔
+![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) 
 
 ### currently using/learning/causing mild chaos with:
 
-<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-<p>
-<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/bash.svg" alt="Bash logo"/>
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/python.svg" alt="Python logo"/>
-<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/docker.svg" alt="Docker logo"/>
-<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/visualstudio_code.svg" alt="VS Code logo"/>
-</p>
+![Pop!\_OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white) ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 <!--
 **vosalt/vosalt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
